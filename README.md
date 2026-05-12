@@ -13,12 +13,36 @@
 
 ## 🧠 About Me
 
-```yaml
-Name       : Sahil Karande
-Location   : Nagpur, Maharashtra, India
-Interests  : AI Engineer | Machine Learning | Data Analytics
-Currently  : Building cool projects & leveling up every day
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%93%88;Data+Analytics+%F0%9F%93%8A;Full+Stack+Web+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+  <tr>
+    <th align="center" width="25%">👤 Name</th>
+    <th align="center" width="25%">📍 Location</th>
+    <th align="center" width="25%">🎯 Interests</th>
+    <th align="center" width="25%">⚡ Currently</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><b>Sahil Karande</b></td>
+    <td align="center" valign="middle">Nagpur, Maharashtra<br/>India 🇮🇳</td>
+    <td align="center" valign="middle">AI • ML • Data Analytics<br/>Full Stack Dev</td>
+    <td align="center" valign="middle">Building cool projects<br/>&amp; leveling up daily</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Actively%20Looking-2ea44f?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍%20Nagpur-Maharashtra%2C%20India-667eea?style=for-the-badge)
+![Focus](https://img.shields.io/badge/🎯%20Focus-AI%20%7C%20ML%20%7C%20Data-764ba2?style=for-the-badge)
+
+</div>
 
 ---
 
