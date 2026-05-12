@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>👋 Hi, I'm Sahil Karande</h3>
-  <p>Published IEEE Researcher • AI Engineer • Full Stack Developer • Data Analyst </p>
+  <p> Published IEEE Researcher • AI Engineer • Full Stack Developer • Data Analyst</p>
 </div>
 
 ---
@@ -36,15 +36,21 @@
 
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Actively%20Looking-2ea44f?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍%20Nagpur-Maharashtra%2C%20India-667eea?style=for-the-badge)
-![Focus](https://img.shields.io/badge/🎯%20Focus-AI%20%7C%20ML%20%7C%20Data-764ba2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-karande-5272652a6/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-karande)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://sahil-karande.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.karande.work@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919156926389)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/400073779674138)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-0158-3821)
 
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 🤖 AI & Machine Learning
 
@@ -81,6 +87,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
@@ -408,18 +416,44 @@ Short description of what insights this dashboard delivers.
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Get in Touch
 
-<div align="center">
+<table align="center" width="70%">
+  <tr>
+    <th align="center" width="30%">🌐 Platform</th>
+    <th align="center" width="70%">🔗 Link</th>
+  </tr>
+  <tr>
+    <td align="center"><b>💼 LinkedIn</b></td>
+    <td align="center"><a href="https://www.linkedin.com/in/sahil-karande-5272652a6/">linkedin.com/in/sahil-karande-5272652a6</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🐙 GitHub</b></td>
+    <td align="center"><a href="https://github.com/sahil-karande">github.com/sahil-karande</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌍 Portfolio</b></td>
+    <td align="center"><a href="https://sahil-karande.vercel.app/">sahil-karande.vercel.app</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📧 Gmail</b></td>
+    <td align="center"><a href="mailto:sahil.karande.work@gmail.com">sahil.karande.work@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📞 Phone</b></td>
+    <td align="center"><a href="tel:+919156926389">+91 9156926389</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📄 IEEE</b></td>
+    <td align="center"><a href="https://ieeexplore.ieee.org/author/400073779674138">ieeexplore.ieee.org — Author Profile</a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔬 ORCID</b></td>
+    <td align="center"><a href="https://orcid.org/0009-0001-0158-3821">orcid.org/0009-0001-0158-3821</a></td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-karande-5272652a6/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-karande)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.karande.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://sahil-karande.vercel.app/)
-[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/400073779674138)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-0158-3821)
-
-</div>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
