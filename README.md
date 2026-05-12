@@ -7,6 +7,7 @@
   <p>🎓 Fresher passionate about building impactful web apps & data-driven solutions</p>
   <p>💡 I love turning ideas into reality with code, clean dashboards, and smart ML models</p>
   <p>🚀 Actively looking for exciting opportunities — let's build something great together!</p>
+  <p>📚 B.Tech AI Student @ GHRCEM | CGPA: 8.92 | IEEE Vice Chair, ComSoc</p>
 </div>
 
 ---
@@ -99,7 +100,7 @@
 
 A first-of-its-kind lexical database for the Gondi tribal language enabling AI tools & digital preservation for 2.9M+ speakers.
 
-<img src="https://via.placeholder.com/600x300?text=Gondi+WordNet" alt="Gondi WordNet" width="100%"/>
+<img src="https://sahil-karande.vercel.app/gondi%20logo.png" alt="Gondi WordNet" width="120" height="120"/>
 
 [![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://gondi-wordnet.onrender.com/)
 [![IEEE Paper](https://img.shields.io/badge/📄%20IEEE%20Paper-00629B?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/10882401)
@@ -116,7 +117,7 @@ A first-of-its-kind lexical database for the Gondi tribal language enabling AI t
 
 Full-stack habit tracking app with ML-powered streak analysis, nudge theory, real-time dashboards & intelligent reminders.
 
-<img src="https://via.placeholder.com/600x300?text=Slate+Habit+Tracker" alt="Slate" width="100%"/>
+<img src="https://sahil-karande.vercel.app/icon-512%20(1).png" alt="Slate" width="120" height="120"/>
 
 [![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://zenith-eta-ruddy.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
@@ -139,7 +140,7 @@ Full-stack habit tracking app with ML-powered streak analysis, nudge theory, rea
 
 AI-driven platform analysing health data to forecast risks & recommend preventive actions merging Ayurvedic principles with modern ML.
 
-<img src="https://via.placeholder.com/600x300?text=Ayupredict" alt="Ayupredict" width="100%"/>
+<img src="https://sahil-karande.vercel.app/Ayupredict%20logo(1)-modified.png" alt="Ayupredict" width="120" height="120"/>
 
 [![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://ayupredict.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
@@ -156,7 +157,7 @@ AI-driven platform analysing health data to forecast risks & recommend preventiv
 
 Complete business management system — subscriber management, billing cycles, payment tracking & operator dashboards.
 
-<img src="https://via.placeholder.com/600x300?text=Maa+Vaishnavi+Cable+Network" alt="Cable Network" width="100%"/>
+<img src="https://sahil-karande.vercel.app/cable%20logo.png" alt="Maa Vaishnavi Cable Network" width="120" height="120"/>
 
 [![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://maa-vaishnavi-cable-network.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
@@ -179,7 +180,7 @@ Complete business management system — subscriber management, billing cycles, p
 
 Intelligent voice-controlled assistant with NLP, automated task scheduling & seamless local system control.
 
-<img src="https://via.placeholder.com/600x300?text=Gyaani+Voice+Assistant" alt="Gyaani" width="100%"/>
+<img src="https://sahil-karande.vercel.app/gyaani%20logo-modified.png" alt="Gyaani" width="120" height="120"/>
 
 [![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://gyaani-silk.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
@@ -196,7 +197,7 @@ Intelligent voice-controlled assistant with NLP, automated task scheduling & sea
 
 Real-time hand gesture recognition model using OpenCV & Python achieving 92% detection accuracy. Built during ML Internship @ Prodigy InfoTech.
 
-<img src="https://via.placeholder.com/600x300?text=Hand+Gesture+Recognition" alt="Hand Gesture" width="100%"/>
+<img src="https://via.placeholder.com/120x120?text=HGR" alt="Hand Gesture Recognition" width="120" height="120"/>
 
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
@@ -262,6 +263,8 @@ Short one-liner about what this project does and why it matters.
 
 Patient analysis, KPIs & regional insights — built with Power BI, DAX & SQL.
 
+<div align="center"><img src="https://sahil-karande.vercel.app/cancer%20patient-modified.png" alt="Cancer Patient Logo" width="100" height="100"/></div>
+
 <img src="https://sahil-karande.vercel.app/dashboard1.png" alt="Cancer Patient Dashboard Preview" width="100%"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -290,6 +293,8 @@ Patient analysis, KPIs & regional insights — built with Power BI, DAX & SQL.
 ### 📌 Chennai Homes — Real Estate Analysis
 
 Interactive 5-page Power BI report with DAX, data modeling & Power Query.
+
+<div align="center"><img src="https://sahil-karande.vercel.app/Chennai-modified.png" alt="Chennai Homes Logo" width="100" height="100"/></div>
 
 <img src="https://sahil-karande.vercel.app/power1.png" alt="Chennai Homes Dashboard Preview" width="100%"/>
 
