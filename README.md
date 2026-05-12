@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%93%88;Data+Analytics+%F0%9F%93%8A;Full+Stack+Web+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%93%88;Data+Analytics+%F0%9F%93%8A;Full+Stack+Web+Developer+%F0%9F%92%BB;IEEE+Published+Researcher+%F0%9F%93%9D;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -48,72 +48,83 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### 🤖 AI & Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-764ba2?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
+### 💻 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🐍 Backend & ML
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 📊 Analytics & BI
+### 📊 Data Analysis & BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 Tools
+### 🔧 DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-> 💡 Replace placeholder images and links with your actual project screenshots and URLs.
+> 💡 Click **Live Demo** to visit the project or **Source Code** to explore the repository.
 
 <!-- ── ROW 1 ── -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 
-### 🔹 Project 1 — Your Project Name
+### 🔹 Gondi WordNet — IEEE Published NLP Research
 
-Short one-liner about what this project does and why it matters.
+A first-of-its-kind lexical database for the Gondi tribal language enabling AI tools & digital preservation for 2.9M+ speakers.
 
-<img src="https://via.placeholder.com/600x300?text=Project+1+Screenshot" alt="Project 1" width="100%"/>
+<img src="https://via.placeholder.com/600x300?text=Gondi+WordNet" alt="Gondi WordNet" width="100%"/>
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
-[![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://gondi-wordnet.onrender.com/)
+[![IEEE Paper](https://img.shields.io/badge/📄%20IEEE%20Paper-00629B?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/10882401)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-764ba2?style=flat-square)
+![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)
 
 </td>
     <td width="50%" valign="top">
 
-### 🔹 Project 2 — Your Project Name
+### 🔹 Slate — AI-Powered Habit Tracker
 
-Short one-liner about what this project does and why it matters.
+Full-stack habit tracking app with ML-powered streak analysis, nudge theory, real-time dashboards & intelligent reminders.
 
-<img src="https://via.placeholder.com/600x300?text=Project+2+Screenshot" alt="Project 2" width="100%"/>
+<img src="https://via.placeholder.com/600x300?text=Slate+Habit+Tracker" alt="Slate" width="100%"/>
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://zenith-eta-ruddy.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
   </tr>
@@ -124,34 +135,36 @@ Short one-liner about what this project does and why it matters.
   <tr>
     <td width="50%" valign="top">
 
-### 🔹 Project 3 — Your Project Name
+### 🔹 Ayupredict — AI Health Prediction Platform
 
-Short one-liner about what this project does and why it matters.
+AI-driven platform analysing health data to forecast risks & recommend preventive actions merging Ayurvedic principles with modern ML.
 
-<img src="https://via.placeholder.com/600x300?text=Project+3+Screenshot" alt="Project 3" width="100%"/>
+<img src="https://via.placeholder.com/600x300?text=Ayupredict" alt="Ayupredict" width="100%"/>
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://ayupredict.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
 </td>
     <td width="50%" valign="top">
 
-### 🔹 Project 4 — Your Project Name
+### 🔹 Maa Vaishnavi Cable Network — Business System
 
-Short one-liner about what this project does and why it matters.
+Complete business management system — subscriber management, billing cycles, payment tracking & operator dashboards.
 
-<img src="https://via.placeholder.com/600x300?text=Project+4+Screenshot" alt="Project 4" width="100%"/>
+<img src="https://via.placeholder.com/600x300?text=Maa+Vaishnavi+Cable+Network" alt="Cable Network" width="100%"/>
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://maa-vaishnavi-cable-network.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
   </tr>
@@ -162,34 +175,35 @@ Short one-liner about what this project does and why it matters.
   <tr>
     <td width="50%" valign="top">
 
-### 🔹 Project 5 — Your Project Name
+### 🔹 Gyaani — Personal Voice Assistant
 
-Short one-liner about what this project does and why it matters.
+Intelligent voice-controlled assistant with NLP, automated task scheduling & seamless local system control.
 
-<img src="https://via.placeholder.com/600x300?text=Project+5+Screenshot" alt="Project 5" width="100%"/>
+<img src="https://via.placeholder.com/600x300?text=Gyaani+Voice+Assistant" alt="Gyaani" width="100%"/>
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://gyaani-silk.vercel.app/)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-764ba2?style=flat-square)
+![SpeechRecognition](https://img.shields.io/badge/SpeechRecognition-FF6F00?style=flat-square&logo=python&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-667eea?style=flat-square)
 
 </td>
     <td width="50%" valign="top">
 
-### 🔹 Project 6 — Your Project Name
+### 🔹 Hand Gesture Recognition — ML Model
 
-Short one-liner about what this project does and why it matters.
+Real-time hand gesture recognition model using OpenCV & Python achieving 92% detection accuracy. Built during ML Internship @ Prodigy InfoTech.
 
-<img src="https://via.placeholder.com/600x300?text=Project+6+Screenshot" alt="Project 6" width="100%"/>
+<img src="https://via.placeholder.com/600x300?text=Hand+Gesture+Recognition" alt="Hand Gesture" width="100%"/>
 
-[![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
   </tr>
@@ -209,9 +223,9 @@ Short one-liner about what this project does and why it matters.
 [![Live Demo](https://img.shields.io/badge/🔗%20Live%20Demo-667eea?style=for-the-badge)](https://your-demo-link.com)
 [![Source Code](https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/sahil-karande)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
 </td>
     <td width="50%" valign="top">
@@ -237,61 +251,70 @@ Short one-liner about what this project does and why it matters.
 
 ## 📊 Dashboards
 
-> 💡 Click **👁️ View Dashboard** on any card below to expand and see all pages/screenshots for that dashboard.
+> 💡 Click **👁️ View Dashboard** on any card below to expand and see all pages/screenshots.
 
 <!-- ── DASHBOARD ROW 1 ── -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
 
-### 📌 Dashboard 1 — Your Dashboard Name
+### 📌 Cancer Patient Diagnosis Dataset
 
-Short description of what insights this dashboard delivers.
+Patient analysis, KPIs & regional insights — built with Power BI, DAX & SQL.
 
-<img src="https://via.placeholder.com/600x300?text=Dashboard+1+Cover" alt="Dashboard 1 Preview" width="100%"/>
+<img src="https://sahil-karande.vercel.app/dashboard1.png" alt="Cancer Patient Dashboard Preview" width="100%"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 <details>
 <summary>👁️ View Dashboard — All Screenshots</summary>
 <br/>
 
-**Page 1 — Overview**
-<img src="https://via.placeholder.com/600x320?text=Dashboard+1+Page+1" width="100%"/>
+**Page 1 — Main Overview**
+<img src="https://sahil-karande.vercel.app/dashboard1.png" width="100%"/>
 
-**Page 2 — Sales Analysis**
-<img src="https://via.placeholder.com/600x320?text=Dashboard+1+Page+2" width="100%"/>
+**Page 2 — Patient Analysis**
+<img src="https://sahil-karande.vercel.app/dashboard2.png" width="100%"/>
 
 **Page 3 — Regional Breakdown**
-<img src="https://via.placeholder.com/600x320?text=Dashboard+1+Page+3" width="100%"/>
+<img src="https://sahil-karande.vercel.app/dashboard3.png" width="100%"/>
 
 </details>
 
 </td>
     <td width="50%" valign="top">
 
-### 📌 Dashboard 2 — Your Dashboard Name
+### 📌 Chennai Homes — Real Estate Analysis
 
-Short description of what insights this dashboard delivers.
+Interactive 5-page Power BI report with DAX, data modeling & Power Query.
 
-<img src="https://via.placeholder.com/600x300?text=Dashboard+2+Cover" alt="Dashboard 2 Preview" width="100%"/>
+<img src="https://sahil-karande.vercel.app/power1.png" alt="Chennai Homes Dashboard Preview" width="100%"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 <details>
 <summary>👁️ View Dashboard — All Screenshots</summary>
 <br/>
 
-**Page 1 — Executive Summary**
-<img src="https://via.placeholder.com/600x320?text=Dashboard+2+Page+1" width="100%"/>
+**Page 1 — Overview**
+<img src="https://sahil-karande.vercel.app/power1.png" width="100%"/>
 
-**Page 2 — Trend Analysis**
-<img src="https://via.placeholder.com/600x320?text=Dashboard+2+Page+2" width="100%"/>
+**Page 2 — Price Analysis**
+<img src="https://sahil-karande.vercel.app/power2.png" width="100%"/>
 
-**Page 3 — KPI Tracker**
-<img src="https://via.placeholder.com/600x320?text=Dashboard+2+Page+3" width="100%"/>
+**Page 3 — Location Insights**
+<img src="https://sahil-karande.vercel.app/power3.png" width="100%"/>
+
+**Page 4 — Property Trends**
+<img src="https://sahil-karande.vercel.app/power4.png" width="100%"/>
+
+**Page 5 — Summary**
+<img src="https://sahil-karande.vercel.app/power5.png" width="100%"/>
 
 </details>
 
@@ -310,20 +333,20 @@ Short description of what insights this dashboard delivers.
 
 <img src="https://via.placeholder.com/600x300?text=Dashboard+3+Cover" alt="Dashboard 3 Preview" width="100%"/>
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <details>
 <summary>👁️ View Dashboard — All Screenshots</summary>
 <br/>
 
-**Page 1 — Customer Segmentation**
+**Page 1 — Overview**
 <img src="https://via.placeholder.com/600x320?text=Dashboard+3+Page+1" width="100%"/>
 
-**Page 2 — Churn Analysis**
+**Page 2 — Analysis**
 <img src="https://via.placeholder.com/600x320?text=Dashboard+3+Page+2" width="100%"/>
 
-**Page 3 — Retention Funnel**
+**Page 3 — Summary**
 <img src="https://via.placeholder.com/600x320?text=Dashboard+3+Page+3" width="100%"/>
 
 </details>
@@ -344,13 +367,13 @@ Short description of what insights this dashboard delivers.
 <summary>👁️ View Dashboard — All Screenshots</summary>
 <br/>
 
-**Page 1 — Supply Overview**
+**Page 1 — Overview**
 <img src="https://via.placeholder.com/600x320?text=Dashboard+4+Page+1" width="100%"/>
 
-**Page 2 — Inventory Levels**
+**Page 2 — Deep Dive**
 <img src="https://via.placeholder.com/600x320?text=Dashboard+4+Page+2" width="100%"/>
 
-**Page 3 — Forecast Model**
+**Page 3 — Forecast**
 <img src="https://via.placeholder.com/600x320?text=Dashboard+4+Page+3" width="100%"/>
 
 </details>
@@ -387,10 +410,12 @@ Short description of what insights this dashboard delivers.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-karande)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-karande-5272652a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-karande)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.karande.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://sahil-karande.vercel.app/)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/400073779674138)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-0158-3821)
 
 </div>
 
