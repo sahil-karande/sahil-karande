@@ -7,7 +7,6 @@
   <p>🎓 Fresher passionate about building impactful web apps & data-driven solutions</p>
   <p>💡 I love turning ideas into reality with code, clean dashboards, and smart ML models</p>
   <p>🚀 Actively looking for exciting opportunities — let's build something great together!</p>
-  <p>📚 B.Tech AI Student @ GHRCEM | CGPA: 8.92 | IEEE Vice Chair, ComSoc</p>
 </div>
 
 ---
